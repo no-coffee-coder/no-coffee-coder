@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @no-coffee-coder
 - 👀 I’m interested in Automation Testing
 - 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaboration on nothing for now.
-- 📫 aimdream00@gmail.com
+- 💞️ I’m looking to collaboration on anything opensource, priority to Testing frameworks.
+- 📫 laraibmomin78692@gmail.com / aimdream00@gmail.com
 
 <!---
 no-coffee-coder/no-coffee-coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
